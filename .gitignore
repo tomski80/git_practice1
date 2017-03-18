@@ -1,0 +1,3 @@
+#ignore sqllight database files
+db/*.sqlite3
+
